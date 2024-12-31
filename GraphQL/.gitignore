@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Build directories
+dist/
+build/
+
+# Operating system files
+*.swp
